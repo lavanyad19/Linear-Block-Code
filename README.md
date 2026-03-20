@@ -1,6 +1,7 @@
 ## Name : Lavanya D
 ## Reg.no : 212224060133
-# Linear-Block-Code
+# Exp No:6 
+# Exp name: Simulation of Error Detection and Correction algorithms
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
